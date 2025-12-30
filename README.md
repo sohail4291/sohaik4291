@@ -18,3 +18,6 @@
 - LinkedIn: https://www.linkedin.com/in/sohail4291/
 - GitHub: https://github.com/sohail4291
 - Email: sohailshaik4291@gmail.com
+
+### 🧰 Tech
+<img src="https://skillicons.dev/icons?i=java,python,nodejs,javascript,spring,flask,react,mysql,mongodb,git,github,postgres,postman" />
